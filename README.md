@@ -1,0 +1,1 @@
+A mechanistic interpretability tutorial on path patching: using the NNsight library to implement path patching: an advanced version of activation patching, where you can interchange circuits in your neural network as your please and see how behavior changes. 
