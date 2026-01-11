@@ -1,11 +1,9 @@
 #!/usr/bin/env python3
 """
-Path Patching with NNsight - A Tutorial Implementation
+Path Patching with NNsight
 =======================================================
 
-This module teaches you how to do activation patching and path patching
-using NNsight on GPT-2 style models. It's designed to be readable and
-educational, not just functional.
+The python file accompaniment to the notebook for path patching with nnsight. 
 
 Key Concepts:
 - Node: A location in the model where we can read/write activations
